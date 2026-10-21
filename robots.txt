@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christchurchconcrete.co.nz/sitemap.xml
